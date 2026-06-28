@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**ankit-2003-star/ankit-2003-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building web applications and solving problems through code.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+* Git
+
+### Currently
+
+* 🌱 Learning new technologies and improving my development skills.
+* 🚀 Building full-stack projects.
+
+### Featured Projects
+
+* 🎥 Video Conferencing Platform
+* 📈 Stock Trading Platform
+
+> Always learning. Always building.
