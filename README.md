@@ -1,21 +1,10 @@
 # Hi, I'm Ankit 👋
 
-💻 Passionate about building web applications and solving problems through code.
+Full-stack developer passionate about building useful web applications.
 
-### Tech Stack
+**Tech Stack:** Java • JavaScript • React • Node.js • Express.js • MongoDB • Git
 
-* Java
-* JavaScript
-* React
-* Node.js
-* Express.js
-* MongoDB
-* Git
-
-### Currently
-
-* 🌱 Learning new technologies and improving my development skills.
-* 🚀 Building full-stack projects.
+🚀 Currently building projects and continuously learning new technologies.
 
 ### Featured Projects
 
