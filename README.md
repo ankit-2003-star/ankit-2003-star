@@ -20,7 +20,7 @@ I'm passionate about building scalable web applications and continuously improvi
 </td>
 <td width="45%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit-2003-star&show_icons=true&hide=stars,prs,issues,contribs,rank&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankit-2003-star&show_icons=true&hide=stars,prs,issues,contribs,rank&theme=tokyonight&cache_seconds=1800"/>
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ I'm passionate about building scalable web applications and continuously improvi
 </td>
 <td width="45%">
 
-<img src="https://streak-stats.demolab.com?user=ankit-2003-star&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ankit-2003-star&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </td>
 </tr>
