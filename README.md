@@ -65,7 +65,7 @@ I'm passionate about building scalable web applications and continuously improvi
 </td>
 <td width="45%">
 
-<img src="https://streak-stats.demolab.com?user=ankit-2003-star&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=ankit-2003-star&theme=tokyonight&hide_border=true&cache_seconds=100"/>
 
 </td>
 </tr>
