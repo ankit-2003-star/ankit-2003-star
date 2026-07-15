@@ -23,9 +23,9 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/ankit-2003-star">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankit-2003-star&cache_seconds=7200&layout=compact&theme=radical&border_radius=10&hide=stars,prs,issues,contribs,rank&hide_border=true" alt="ankit-2003-star's GitHub Stats" />
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankit-2003-star&cache_seconds=200&layout=compact&theme=radical&border_radius=10&hide=stars,prs,issues,contribs,rank&hide_border=true" alt="ankit-2003-star's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ankit-2003-star&theme=radical&hide_border=true&cache_seconds=86400" alt="ankit-2003-star's GitHub Streak" height="150em"/>
+  <img src="https://streak-stats.demolab.com/?user=ankit-2003-star&theme=radical&hide_border=true&cache_seconds=400" alt="ankit-2003-star's GitHub Streak" height="150em"/>
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-2003-star&theme=radical&radius=10" alt="ankit-2003-star's Activity Graph" />
