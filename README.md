@@ -97,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ankitanand160304@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/3840px-Gmail_icon_%282026%29.svg.png" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ankit-anand-portfolio-zeta.vercel.app/">
     <img src="https://www.freeiconspng.com/uploads/website-icon-23.png" alt="Website" height="40/>
